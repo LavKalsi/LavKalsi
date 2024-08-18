@@ -49,7 +49,7 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api?username=LavKalsi&show_icons=true&include_all_commits=true&theme=highcontrast&locale=en" alt="LavKalsi" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LavKalsi&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="LavKalsi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LavKalsi&show_icons=true&theme=lowcontrast&locale=en&layout=compact" alt="LavKalsi" />
 
 ## 📫 Connect with me:
 
