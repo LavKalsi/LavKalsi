@@ -50,6 +50,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LavKalsi&show_icons=true&hide_progress=true" alt="LavKalsi" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+<img src="https://github-readme-stats.vercel.app/api?username=LavKalsi&show_icons=true&include_all_commits=true&theme=highcontrast" alt="LavKalsi's GitHub Stats"/>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=LavKalsi&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 📫 Connect with me:
 
