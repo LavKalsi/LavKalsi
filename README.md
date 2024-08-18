@@ -48,7 +48,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LavKalsi&show_icons=true&theme=lowcontrast&locale=en&layout=compact" alt="LavKalsi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LavKalsi&show_icons=true&hide_progress=true" alt="LavKalsi" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ## 📫 Connect with me:
