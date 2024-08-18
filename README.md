@@ -49,6 +49,7 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LavKalsi&show_icons=true&theme=lowcontrast&locale=en&layout=compact" alt="LavKalsi" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ## 📫 Connect with me:
 
