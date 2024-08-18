@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="30px" />, I'm Lav Kalsi</h1>
 <h3 align="center">Software Developer | Aspiring Data Science Engineer | Android Enthusiast</h3>
@@ -48,7 +48,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=LavKalsi&show_icons=true&include_all_commits=true&theme=highcontrast&locale=en" alt="LavKalsi" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LavKalsi&show_icons=true&theme=lowcontrast&locale=en&layout=compact" alt="LavKalsi" />
 
 ## 📫 Connect with me:
